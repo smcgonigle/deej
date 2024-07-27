@@ -17,4 +17,4 @@ Thingiverse link https://www.thingiverse.com/thing:6710745
 
 ![DEEJ6](photos/6.JPEG)
 
-![Schematic](schematic/schematic.png)
+![Schematic](schematic/Schematic.png)
