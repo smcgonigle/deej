@@ -1,14 +1,20 @@
-# deej
-Based on https://github.com/omriharel/deej
+# DEEJ
+Project based on https://github.com/omriharel/DEEJ
 
-![deej](res/1.png)
+Case based on https://www.thingiverse.com/thing:4888445
 
-![deej](res/2.png)
+Thingiverse link https://www.thingiverse.com/thing:6710745
 
-![deej](res/3.png)
+![DEEJ1](photos/1.JPEG)
 
-![deej](res/4.png)
+![DEEJ2](photos/2.JPEG)
 
-![deej](res/5.png)
+![DEEJ3](photos/3.JPEG)
 
-![deej](res/6.png)
+![DEEJ4](photos/4.JPEG)
+
+![DEEJ5](photos/5.JPEG)
+
+![DEEJ6](photos/6.JPEG)
+
+![Schematic](schematic/schematic.png)
