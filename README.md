@@ -1,9 +1,12 @@
-# DEEJ
+# Summary
+[deej](https://github.com/omriharel/DEEJ) is an open-source hardware volume mixer for Windows and Linux PCs. This is one of many builds you can find on the [deej Discord server](https://discord.gg/nf88NJu). This build uses hardwired mute switches - no extra coding required.
+
 Project based on https://github.com/omriharel/DEEJ
 
 Case based on https://www.thingiverse.com/thing:4888445
 
 Thingiverse link https://www.thingiverse.com/thing:6710745
+
 
 ## Parts List:
 - [Mini / Type-C / Micro USB Nano 3.0 With the bootloader compatible Nano controller for arduino CH340 USB driver 16Mhz ATMEGA328P](https://www.aliexpress.com/item/1005006053215107.html?spm=a2g0o.order_list.order_list_main.83.c6dc1802HPzLbS)
